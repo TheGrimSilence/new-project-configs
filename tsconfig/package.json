@@ -6,5 +6,8 @@
   "repository": "https://github.com/TheGrimSilence/new-project-configs/tree/master/tsconfig",
   "license": "MIT",
   "author": "Adrian (Grim) Roach <silencegrim@gmail.com>",
-  "main": "tsconfig.json"
+  "main": "tsconfig.json",
+  "files": [
+    "tsconfig.json"
+  ]
 }

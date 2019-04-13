@@ -6,5 +6,8 @@
   "repository": "https://github.com/TheGrimSilence/new-project-configs/tree/master/tslint",
   "license": "MIT",
   "author": "Adrian (Grim) Roach <silencegrim@gmail.com>",
-  "main": "tslint.js"
+  "main": "tslint.js",
+  "files": [
+    "tslint.js"
+  ]
 }
