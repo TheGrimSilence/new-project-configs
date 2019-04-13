@@ -1,5 +1,5 @@
 {
-  "name": "tslint-config-thegrimsilence",
+  "name": "@thegrimsilence/tslint",
   "version": "1.0.0",
   "private": false,
   "description": "A TSLint config for TheGrimSilence TypeScript Style",

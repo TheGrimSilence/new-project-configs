@@ -1,5 +1,5 @@
 {
-  "name": "tsconfig-thegrimsilence",
+  "name": "@thegrimsilence/tsconfig",
   "version": "1.0.0",
   "private": false,
   "description": "A typescript config for TheGrimSilence TypeScript Style",
