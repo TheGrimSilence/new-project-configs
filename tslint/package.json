@@ -1,6 +1,6 @@
 {
   "name": "@thegrimsilence/tslint",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": false,
   "description": "A TSLint config for TheGrimSilence TypeScript Style",
   "repository": "https://github.com/TheGrimSilence/new-project-configs/tree/master/tslint",
