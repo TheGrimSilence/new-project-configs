@@ -5,7 +5,6 @@
     "module": "commonjs",
     "jsx": "react",
     "declaration": true,
-    "sourceMap": true,
     "composite": true,
     "removeComments": true,
     /* Strict Type-Checking Options*/
