@@ -4,9 +4,10 @@
     "target": "es6",
     "module": "commonjs",
     "jsx": "react",
-    "declaration": true,
-    "composite": true,
+    "declaration": false,
+    "composite": false,
     "removeComments": true,
+    "incremental": true,
     /* Strict Type-Checking Options*/
     "strict": true,
     /* Additional checks */
